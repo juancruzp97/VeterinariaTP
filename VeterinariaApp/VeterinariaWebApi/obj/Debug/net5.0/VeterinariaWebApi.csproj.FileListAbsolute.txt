@@ -1,0 +1,111 @@
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.exe
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.deps.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.dev.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\ref\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfoInputs.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfo.cs
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CoreCompileInputs.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.Manifest.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.xml
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebApi.styles.css
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.RazorTargetAssemblyInfo.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CopyComplete
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\ref\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.genruntimeconfig.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\VeterinariaApp\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.AssemblyReference.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.exe
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.deps.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.dev.json
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\ref\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.AssemblyReference.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfoInputs.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfo.cs
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CoreCompileInputs.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.Manifest.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.xml
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebApi.styles.css
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.RazorTargetAssemblyInfo.cache
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CopyComplete
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\ref\VeterinariaWebApi.dll
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.pdb
+D:\Juan Cruz\Tec. Programacion\2do Cuatrimestre\Programacion II\TP\Veterinaria\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.genruntimeconfig.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.exe
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.deps.json
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.json
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.runtimeconfig.dev.json
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\ref\VeterinariaWebApi.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaWebApi.pdb
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\bin\Debug\net5.0\VeterinariaBackend.pdb
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.AssemblyReference.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfoInputs.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.AssemblyInfo.cs
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.Manifest.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\staticwebassets\VeterinariaWebApi.StaticWebAssets.xml
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\scopedcss\bundle\VeterinariaWebApi.styles.css
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.csproj.CopyComplete
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\ref\VeterinariaWebApi.dll
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.pdb
+C:\Users\usuario\3D Objects\VeterinariaApp\VeterinariaWebApi\obj\Debug\net5.0\VeterinariaWebApi.genruntimeconfig.cache
